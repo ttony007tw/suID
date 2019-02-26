@@ -1,8 +1,13 @@
 let x = "123"
-var y= abc
+let y= "UN"
 
 function showID() {
-    console.log(x);
+    console.log(x)
 }
 
-showID();
+function showDep() {
+  console.log(y)
+}
+
+showID()
+showDep()
