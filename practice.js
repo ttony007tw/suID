@@ -11,7 +11,3 @@ function showDep() {
 
 showID()
 showDep()
-
-function showNull() {
-  console.log("null");
-}
